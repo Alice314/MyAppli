@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="academy">
+        <item> 通信</item>
+        <item>计算机</item>
+        <item>光电</item>
+        <item>自动化</item>
+        <item>理学院</item>
+        <item>生物</item>
+        <item>经管</item>
+        <item>体育</item>
+        <item>外国语</item>
+        <item>先进制造</item>
+        <item>传媒</item>
+        <item>软件</item>
+        <item>法学</item>
+        <item>半导体</item>
+        <item>全校"</item>
+    </string-array>
+</resources>
